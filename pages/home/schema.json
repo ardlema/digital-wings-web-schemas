@@ -1,0 +1,165 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Course",
+                "url": "https://digitalwingsacademy.com/intro-programacion-mascota-virtual/",
+                "name": "Introducción a la programación con nuestra mascota virtual",
+                "description": "En este curso enseñaremos los fundamentos del desarrollo de software y la programación básica, haciendo énfasis en el desarrollo del pensamiento lógico y habilidades de resolución de problemas por parte de los alumnos. Los estudiantes aprenderán comandos, funciones y estructuras de control para resolver desafios y escribir programas creativos para que Karel, nuestra mascota virtual, los ejecute",
+                "offers": {
+                    "@type": "Offer",
+                    "category": "Pago trimestral",
+                    "price": "60",
+                    "priceCurrency": "EUR"
+                },
+                "hasCourseInstance": [
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-16",
+                        "startDate": "2024-09-30"
+                    },
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-18",
+                        "startDate": "2024-10-02"
+                    }
+                ],
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Digital Wings Academy",
+                    "sameAs": "https://www.digitalwingsacademy.com"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Course",
+                "url": "https://digitalwingsacademy.com/introduccion-programacion-videojuegos/",
+                "name": "Introducción al diseño y programación de videojuegos",
+                "description": "Este curso introduce a los estudiantes al diseño y la programación de videojuegos. Los estudiantes utilizan la biblioteca de JavaScript p5play para diseñar, desarrollar y publicar juegos. A lo largo del curso, aprenderán conceptos de programación como variables, funciones, condicionales y eventos de ratón/teclado, mientras construyen juegos divertidos e interactivos que podrán jugar y compartir con otros.",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "60",
+                    "category": "Pago trimestral",
+                    "priceCurrency": "EUR"
+                },
+                "hasCourseInstance": [
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-16",
+                        "startDate": "2024-09-30"
+                    },
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-18",
+                        "startDate": "2024-10-02"
+                    }
+                ],
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Digital Wings Academy",
+                    "sameAs": "https://www.digitalwingsacademy.com"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Course",
+                "url": "https://digitalwingsacademy.com/introduccion-programacion-python/",
+                "name": "Introducción a la programación con Python",
+                "description": "Este curso introduce a los estudiantes en los fundamentos de la programación, haciendo énfasis en ayudarles a desarrollar habilidades de pensamiento lógico y resolución de problemas. Los estudiantes comienzan aprendiendo a diseñar, implementar y probar sus programas mientras aplican conceptos matemáticos. El curso continua desarrollando conceptos de programación más avanzados como funciones, cadenas de texto, estructuras de datos, operaciones de entrada/salida de archivos y objetos.",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "80",
+                    "category": "Pago trimestral",
+                    "priceCurrency": "EUR"
+                },
+                "hasCourseInstance": [
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-16",
+                        "startDate": "2024-09-30"
+                    },
+                    {
+                        "@type": "CourseInstance",
+                        "courseWorkload": "P1Y",
+                        "courseMode": [
+                            "online"
+                        ],
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "60",
+                            "category": "Pago trimestral",
+                            "priceCurrency": "EUR"
+                        },
+                        "endDate": "2024-06-18",
+                        "startDate": "2024-10-02"
+                    }
+                ],
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Digital Wings Academy",
+                    "sameAs": "https://www.digitalwingsacademy.com"
+                }
+            }
+        }
+    ]
+}
